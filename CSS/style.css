@@ -9,7 +9,7 @@
 
 body{
     text-align: center;
-    background-image: url(/Assets/RBY_Kanto.png);
+    background-image: url(../Assets/RBY_Kanto.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-width: 100vh;
