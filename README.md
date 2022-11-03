@@ -1,1 +1,5 @@
-simple pokedex project using the "pokeAPI"
+Pokedex Project using: HTML, CSS, JavaScript and PokeAPI!
+-------------------------------------------
+<br>
+
+<img src = "https://github.com/ViniStrife/Pokedex/blob/main/animation.gif">
